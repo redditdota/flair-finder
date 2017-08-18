@@ -9,4 +9,4 @@ MOD_PWD = 'yourpasswordhere'
 
 Run script with:
 
-python3 finder.py "flairyouwannafind"
+`python3 finder.py "flairyouwannafind"`
