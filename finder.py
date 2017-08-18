@@ -2,7 +2,6 @@ import praw
 import sys
 from tokens import *
 
-
 r = praw.Reddit(
     client_id=REDDIT_CLIENT_ID,
     client_secret=REDDIT_CLIENT_SECRET,
