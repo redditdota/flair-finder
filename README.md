@@ -1,11 +1,11 @@
 Create a file called "tokens.py" with
 
-`REDDIT_CLIENT_SECRET = 'secret'
+```REDDIT_CLIENT_SECRET = 'secret'
 REDDIT_CLIENT_ID = 'client_id'
 
-# Accounts
 MOD = 'lestye'
-MOD_PWD = 'yourpasswordhere'`
+MOD_PWD = 'yourpasswordhere'
+```
 
 Run script with:
 
